@@ -9,7 +9,16 @@ const Navbar = () => {
 
       <ul className='nav-menu'>
         <li>
-          <a><i class="fa-solid fa-house-user"></i>Home</a>
+          <a href='#'><i class="fa-solid fa-house-user"></i>Home</a>
+        </li>
+        <li>
+          <a href='#'><i class="fa-solid fa-house-user"></i>About</a>
+        </li>
+        <li>
+          <a href='#'><i class="fa-solid fa-house-user"></i>Contact</a>
+        </li>
+        <li>
+          <a href='#'><i class="fa-solid fa-house-user"></i>Services</a>
         </li>
       </ul>
     </nav>
