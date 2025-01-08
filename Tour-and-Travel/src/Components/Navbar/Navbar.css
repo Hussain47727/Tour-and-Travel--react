@@ -1,0 +1,26 @@
+.NavbarItems{
+    /* width: 100vw; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(109, 109, 159);
+    padding: 30px 70px;
+
+}
+.Logo{
+    font-size: 30px;
+}
+.nav-menu{
+  display: flex;
+  gap: 50px;
+}
+.nav-menu  li{
+    /* text-decoration: none; */
+    list-style: none;
+    
+}
+.nav-menu li a{
+    text-decoration: none;
+    display: flex;
+    gap: 10px;
+}

@@ -1,9 +1,0 @@
-.NavbarItems{
-    display: flex;
-    justify-content: space-around;
-
-}
-.nav-menu{
-  display: flex;
-  gap: 50px;
-}
